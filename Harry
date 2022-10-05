@@ -1,0 +1,7 @@
+public class Menu{
+  public Menu (String menuHeader, String leadText, ArrayList<String> menuItems){
+          this.menuHeader = menuHeader;
+          this.leadText = leadText;
+          this.menuItems = menuItems;
+      }
+}
